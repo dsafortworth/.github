@@ -1,2 +1,2 @@
 # .github
-Github Actions Templates
+Github Related Templates
